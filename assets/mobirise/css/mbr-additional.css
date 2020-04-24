@@ -912,89 +912,13 @@ section.lazy-placeholder:after {
 .cid-rX6mv56KFB .progress_value span {
   padding-left: 30px;
 }
-.cid-rX6mzjJRyd {
-  padding-top: 90px;
-  padding-bottom: 90px;
+.cid-rX7j6yif05 {
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-rX6mzjJRyd h3 {
-  text-align: center;
-  font-weight: 300;
-}
-.cid-rX6mzjJRyd .progress {
-  width: 100%;
-}
-.cid-rX6mzjJRyd .title-wrap {
-  display: flex;
-  justify-content: space-between;
-  -webkit-justify-content: space-between;
-}
-.cid-rX6mzjJRyd progress {
-  height: 8px;
-}
-.cid-rX6mzjJRyd .progressbar-number {
-  display: inline-block;
-}
-.cid-rX6mzjJRyd .progress-primary {
-  background: rgba(206, 206, 206, 0.4);
-  border: none;
-  outline: none;
-}
-.cid-rX6mzjJRyd .progress-primary::-webkit-progress-bar {
-  background: rgba(206, 206, 206, 0.4);
-}
-.cid-rX6mzjJRyd .mbr-section-subtitle {
+.cid-rX7j6yif05 .mbr-section-subtitle {
   color: #767676;
-}
-.cid-rX6mzjJRyd .section-content-title {
-  font-weight: 500;
-}
-.cid-rX6mzjJRyd .progress_value {
-  position: relative;
-}
-.cid-rX6mzjJRyd .progress1 .progressbar-number:before,
-.cid-rX6mzjJRyd .progress2 .progressbar-number:before,
-.cid-rX6mzjJRyd .progress3 .progressbar-number:before,
-.cid-rX6mzjJRyd .progress4 .progressbar-number:before,
-.cid-rX6mzjJRyd .progress5 .progressbar-number:before {
-  position: absolute;
-  right: 15px;
-  top: 0;
-}
-.cid-rX6mzjJRyd progress[value]::-webkit-progress-bar {
-  background: rgba(206, 206, 206, 0.4);
-}
-.cid-rX6mzjJRyd progress::-webkit-progress-value {
-  background: #149dcc;
-}
-.cid-rX6mzjJRyd progress[value]::-moz-progress-bar {
-  background: #149dcc;
-}
-.cid-rX6mzjJRyd progress::-ms-fill {
-  background: #149dcc;
-}
-.cid-rX6mzjJRyd .progress1 .progressbar-number:before {
-  content: '100';
-}
-.cid-rX6mzjJRyd .progress2 .progressbar-number:before {
-  content: '90';
-}
-.cid-rX6mzjJRyd .progress3 .progressbar-number:before {
-  content: '80';
-}
-.cid-rX6mzjJRyd .progress4 .progressbar-number:before {
-  content: '70';
-}
-.cid-rX6mzjJRyd .progress5 .progressbar-number:before {
-  content: '60';
-}
-@media (min-width: 768px) {
-  .cid-rX6mzjJRyd .text-elements {
-    padding-right: 3rem;
-  }
-  .cid-rX6mzjJRyd .progress_elements {
-    padding-left: 3rem;
-  }
 }
 .cid-rX6mQAUzxo {
   padding-top: 90px;
