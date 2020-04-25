@@ -41,7 +41,7 @@
     "uniqCompNum": 40,
     "versionPublish": "4.12.3",
     "imageResize": true,
-    "favicon": "@PROJECT_PATH@/assets/images/devgirlicon-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/70-512-128x128.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
