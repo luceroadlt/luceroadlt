@@ -428,7 +428,7 @@
               "font-weight": "300"
             },
             ".mbr-content-text": {
-              "color": "#c1c1c1",
+              "color": "#55b4d4",
               "margin-bottom": "0"
             },
             ".card": {
