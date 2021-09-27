@@ -1134,6 +1134,85 @@ section.lazy-placeholder:after {
 .cid-rXiYWy0FgD H4 {
   color: #ffffff;
 }
+.cid-sKb7mCr6P0 {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-sKb7mCr6P0 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-sKb82LOyED {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #232323;
+}
+.cid-sKb82LOyED .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-sKb82LOyED .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-sKb82LOyED .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-sKb82LOyED .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-sKb82LOyED .row > .row {
+  display: block;
+}
+.cid-sKb82LOyED .mbr-gallery-item {
+  width: 100%;
+}
+.cid-sKb82LOyED .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-sKb82LOyED .mbr-gallery-item > div {
+  position: relative;
+}
+.cid-sKb82LOyED .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-sKb82LOyED .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
+}
+.cid-sKb82LOyED .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-sKb82LOyED .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  opacity: 0.7;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
 .cid-rX7j6yif05 {
   padding-top: 30px;
   padding-bottom: 0px;
