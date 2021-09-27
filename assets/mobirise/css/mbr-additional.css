@@ -909,39 +909,39 @@ section.lazy-placeholder:after {
 .cid-rX6JjsWzRD .mbr-section-subtitle {
   color: #767676;
 }
-.cid-sFEow1zhJe {
-  padding-top: 30px;
-  padding-bottom: 0px;
+.cid-sKeJPOTmua {
+  padding-top: 15px;
+  padding-bottom: 30px;
   background-color: #232323;
 }
-.cid-sFEow1zhJe .mbr-section-subtitle {
+.cid-sKeJPOTmua .mbr-section-subtitle {
   color: #767676;
   font-weight: 300;
 }
-.cid-sFEow1zhJe .mbr-content-text {
-  color: #767676;
+.cid-sKeJPOTmua .mbr-content-text {
+  color: #55b4d4;
   margin-bottom: 0;
 }
-.cid-sFEow1zhJe .card {
+.cid-sKeJPOTmua .card {
   word-wrap: break-word;
   flex-shrink: 0;
   -webkit-flex-shrink: 0;
 }
-.cid-sFEow1zhJe .img-text {
-  width: 60px;
-  height: 60px;
-  font-size: 30px;
+.cid-sKeJPOTmua .img-text {
+  width: 64px;
+  height: 64px;
+  font-size: 32px;
   border: 2px solid #232323;
   border-radius: 50%;
 }
 @media (max-width: 991px) {
-  .cid-sFEow1zhJe .img-text {
+  .cid-sKeJPOTmua .img-text {
     width: 48px;
     height: 48px;
     font-size: 24px;
   }
 }
-.cid-sFEow1zhJe .cards-container {
+.cid-sKeJPOTmua .cards-container {
   display: flex;
   -webkit-flex-direction: row;
   flex-direction: row;
@@ -951,39 +951,39 @@ section.lazy-placeholder:after {
   justify-content: center;
   word-break: break-word;
 }
-.cid-sFEow1zhJe .media-block {
+.cid-sKeJPOTmua .media-block {
   flex-shrink: 0;
   -webkit-flex-shrink: 0;
 }
 @media (min-width: 992px) {
-  .cid-sFEow1zhJe .media-block {
+  .cid-sKeJPOTmua .media-block {
     padding-left: 2rem;
   }
 }
-.cid-sFEow1zhJe .cards-block {
+.cid-sKeJPOTmua .cards-block {
   flex-basis: 100%;
   -webkit-flex-basis: 100%;
 }
 @media (max-width: 991px) {
-  .cid-sFEow1zhJe .media-block {
+  .cid-sKeJPOTmua .media-block {
     flex-basis: 100%;
     -webkit-flex-basis: 100%;
     padding-left: 0;
     padding-bottom: 2rem;
   }
 }
-.cid-sFEow1zhJe .media-container-row {
+.cid-sKeJPOTmua .media-container-row {
   -webkit-flex-direction: row-reverse;
   flex-direction: row-reverse;
 }
-.cid-sFEow1zhJe .mbr-section-title {
+.cid-sKeJPOTmua .mbr-section-title {
   color: #ffffff;
 }
-.cid-sFEow1zhJe H4 {
+.cid-sKeJPOTmua H4 {
   color: #ffffff;
 }
-.cid-sFEow1zhJe P {
-  color: #efefef;
+.cid-sKeJPOTmua P {
+  color: #c1c1c1;
 }
 .cid-rX7HbD8om4 {
   padding-top: 15px;
